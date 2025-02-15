@@ -6,14 +6,13 @@ This project is a simple handwritten digit recognition system using K-Nearest Ne
 <br>
 <h3>🚀 Features</h3>
 
-Draw a digit on a Tkinter GUI
+- Draw a digit on a Tkinter GUI
 
-Preprocessing: Grayscale conversion, thresholding, cropping, resizing
+- Preprocessing: Grayscale conversion, thresholding, cropping, resizing
 
-Prediction using KNN trained on the MNIST dataset
+- Prediction using KNN trained on the MNIST dataset (Achieved Model Accuracy of 97.4%)
 
-Real-time visualization of the processed image
-<br>
+- Real-time visualization of the processed image
 <br>
 <h3>📂 Project Structure</h3>
 
